@@ -1,10 +1,10 @@
-emoji
 redis
 psutil
 aiohttp
 pyromod
 TgCrypto
 gitpython
+pycountry
 py-tgcalls
 phonenumbers
 pyro-listener
