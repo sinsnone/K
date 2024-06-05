@@ -8,6 +8,6 @@ pycountry
 phonenumbers
 pyro-listener
 pyTelegramBotAPI
-py-tgcalls==0.8.2
+py-tgcalls==1.0.9
 python-dotenv==0.21.1
 git+https://github.com/KurimuzonAkuma/pyrogram.git@dev
