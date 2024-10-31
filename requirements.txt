@@ -10,4 +10,4 @@ phonenumbers
 pyro-listener
 pyTelegramBotAPI
 python-dotenv==0.21.1
-git+https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.30.zip --force-reinstall
+git+https://github.com/KurimuzonAkuma/pyrogram.git@dev
