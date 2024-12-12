@@ -1,7 +1,6 @@
 redis
 psutil
 pyromod
-requests
 TgCrypto
 gitpython
 pycountry
