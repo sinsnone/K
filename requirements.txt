@@ -5,6 +5,7 @@ TgCrypto
 gitpython
 pycountry
 py-tgcalls
+cloudinary
 phonenumbers
 pyro-listener
 pyTelegramBotAPI
